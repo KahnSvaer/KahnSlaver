@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shivansh_Pachnanda
 - 👀 I’m interested in GameDevelopment and MachineLearning
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me shivansh.pachnanda1@gmail.com
 
 <!---
